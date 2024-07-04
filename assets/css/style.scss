@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+.half-size img {
+    width: 50%; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
