@@ -16,7 +16,7 @@
 title: Oakleigh Wilson
 email: oakleigh.wilson05@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Analyst. Biologist. Communicator.
+  Analyst. Ecologist. Communicator.
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /posts/:year/:month/:day/:title.html
 url: "https://OakAlice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
