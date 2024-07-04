@@ -1,0 +1,9 @@
+title: Oakleigh Wilson
+description: My website
+url: "https://OakAlice.github.io"
+#baseurl: "/your-repository" # leave empty if this is your user page
+
+# Add the remote theme
+remote_theme: hitchens-theme # Replace with your chosen theme
+plugins:
+  - jekyll-remote-theme # add this if it's not already present
