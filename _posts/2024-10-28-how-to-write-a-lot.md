@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "How to Write a Lot, Paul J Silvia"
-permalink: /2024-10-28-how-to-write-a-lot/
+layout: post
+title: "How to Write a Lot, Paul J. Silvia"
+date: 2024-10-28
+categories: [Productivity]
 ---
 * Read dates: October 12 - 15, 2024
 * Rating: 4/5
