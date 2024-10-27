@@ -5,4 +5,4 @@ category: book-review
 layout: post
 ---
 
-Review of the book.
+I am working on this at the moment, nothing done yet.
