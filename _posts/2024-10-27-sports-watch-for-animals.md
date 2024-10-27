@@ -10,10 +10,10 @@ I’ve told my mum to tell her friends I build sports watches for wild animals. 
 
 Technically, I’m not the one who actually builds these collars either. I’m part of a larger research group, the ‘Biomechanics and Biorobotics Lab’ at the University of the Sunshine Coast, Australia, and I mainly do the AI bit. We have two brilliant engineers who build our satellite and blue-tooth enabled 9-axis accelerometer timed drop-off collars (if you don’t know what that means, it just means the collars are really cool). Our postdoc is working on using the magnetometers and GPS to develop high-resolution dead-reckoning movement pathways. The dedicated ecologists, PhD, honours, and undergraduate students, ask the ecological questions, hunt down animals, secure near-mythically difficult ethical approval, then integrate the data with the animal physiology. Although I’m involved with and enjoy all the stages of this shared project (e.g., see images below, out on fieldwork), my main job is to turn the collar accelerometer data into meaningful behavioural histories.
 
-!Koala catching
+!Me with koala
 *Koala catching during my honours year (2022)*
 
-!Playing with a joey
+!Me with joey
 *Playing with a joey at our Roma kangaroo research site (2023).*
 
 ## Why A Biologist is Doing A PhD in Machine Learning
