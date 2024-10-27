@@ -10,11 +10,16 @@ I’ve told my mum to tell her friends I build sports watches for wild animals. 
 
 Technically, I’m not the one who actually builds these collars either. I’m part of a larger research group, the ‘Biomechanics and Biorobotics Lab’ at the University of the Sunshine Coast, Australia, and I mainly do the AI bit. We have two brilliant engineers who build our satellite and blue-tooth enabled 9-axis accelerometer timed drop-off collars (if you don’t know what that means, it just means the collars are really cool). Our postdoc is working on using the magnetometers and GPS to develop high-resolution dead-reckoning movement pathways. The dedicated ecologists, PhD, honours, and undergraduate students, ask the ecological questions, hunt down animals, secure near-mythically difficult ethical approval, then integrate the data with the animal physiology. Although I’m involved with and enjoy all the stages of this shared project (e.g., see images below, out on fieldwork), my main job is to turn the collar accelerometer data into meaningful behavioural histories.
 
-!Me with koala
-*Koala catching during my honours year (2022)*
-
-!Me with joey
-*Playing with a joey at our Roma kangaroo research site (2023).*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/24b67955-cd32-4601-9eb6-dfbc695108db" alt="Me with koala" style="width: 200px;"/>
+    <p><em>Koala catching during my honours year (2022)</em></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/01900146-11e7-41e3-bf7c-def40b7e01a2" alt="Me with joey" style="width: 200px;"/>
+    <p><em>Playing with a joey at our Roma kangaroo research site (2023)</em></p>
+  </div>
+</div>
 
 ## Why A Biologist is Doing A PhD in Machine Learning
 Accelerometers and gyroscopes measure changes in instantaneous acceleration multiple times per second, capturing detailed movement data often represented as a time-series signal resembling a soundwave. These devices are practically ubiquitous, found in rockets, cars, smartphones, and, of course, sports watches, with the signals providing insights into the behaviour of any object the accelerometer is attached to. Discreet, replicable movements (e.g., raising an arm, taking a step, etc.) create recognisable patterns in the data. By identifying these patterns, we can then recreate exactly what the wearer did. Because these devices are deployed for weeks to months at a time, collecting several gigabytes of movement data, finding all those patterns manually would take too long. Instead, we classify the behaviours using machine learning.
