@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A PhD is Not Enough, Peter J. Feibelman"
+title: "A PhD Is Not Enough, Peter J. Fiebelman"
 date: 2024-11-26
 categories: [Productivity][Career]
 ---
