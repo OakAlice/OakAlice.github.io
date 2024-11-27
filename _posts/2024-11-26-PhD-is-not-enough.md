@@ -2,7 +2,7 @@
 layout: post
 title: "A PhD Is Not Enough, Peter J. Fiebelman"
 date: 2024-11-26
-categories: [Productivity][Career]
+categories: [Productivity, Career]
 ---
 * Read dates: October 8 - 10, 2024
 * Rating: 2.5/5
