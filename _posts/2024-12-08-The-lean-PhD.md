@@ -11,7 +11,7 @@ categories: [Productivity]
 
 “The Lean PhD: Radically Improve the Efficiency, Quality and Impact of Your Research” by Dr. Julian Kirchherr, published 2018 as part of the Palgrave Research Skills Series, is a pragmatic, no-excuses roadmap for those who want to do better PhDs but don’t know where to begin. In light of the sobering reality that most PhDs are low output, low impact, and drag on too long, Kirchherr’s rational response is to reject the status-quo approach to academia and branch out instead to the tech-boom start-up mindset. Moving fast and breaking things is not only one hell of a way to make money, but, claims Kirchherr, to do away with the inefficiencies of the PhD experience. As much as I am overall impressed with the idea, I do, however, worry that taking this approach could degrade a lot of what academia stands for…
 
-# A Roadmap For Efficiency
+## A Roadmap For Efficiency
 
 Kirchherr’s main argument for similarity is that both the PhD and the start-up are typically one-person shows where you put everything on the line to create, from scratch, something totally novel on the bare-bones back of limited resources. It’s an intense and all-consuming process with no guarantee of success. 60% of start ups, he claims (90% claims google), go bust, and 50% of PhD students will drop out. Of those that remain to complete their theses, how many of them go on to find success in academia? According to Kirchherr, not enough to rationally justify the time, energy, resources, and risk. 
 
@@ -46,7 +46,7 @@ All together, following the edicts of these three concepts lead to a PhD approac
 After reading his book and listening to his talk, I have a lot of respect for Kirchherr (who, by the way, finished his thesis in 21 months, published 6 papers and concurrently consulted for 3 external projects, before landing a faculty position directly after graduating). He seems like a hard-working, intelligent, and eminently reasonable guy and the advice he has communicated in this book is his best attempt at making his positive experience accessible for all. However, while I praise Kirchherr, I can’t quite praise all of the book.
 
 
-# The Death of Depth?
+## The Death of Depth?
 
 As much as I like the dynamic approach of the Lean PhD, I am concerned about where it might lead if this approach is optimised over traditional academia. In the hands of experienced academics with plenty of researcher integrity, it may be a productivity boost, nothing more. In the hands of those trying to ‘get away’ with fast PhDs, I think it would be fuel to the fire, encouraging rapid, sloppy work.
 
@@ -72,7 +72,7 @@ A recipe for misunderstanding your subject matter! Maybe the practiced academic 
 
 He says… but then penalises much of what is commonly associated with quality.
 
-# Slowness Is Not A Dirty Word
+## Slowness Is Not A Dirty Word
 
 > [S]lowness is a central value in academia, and it is linked to quality. Indeed, the belief that quality is a function of time is omnipresent. The common belief is that the more time you invest, the greater your work’s quality will be. (84) 
 
