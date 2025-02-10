@@ -1,7 +1,12 @@
-
-
+---
+layout: post
+title: "Koalas Are Not Cute and Cuddly"
+date: 2025-02-11
+categories: [Honours, Accelerometry]
+---
 ## Koalas Are Not Cute and Cuddly
-Originally posted on the website for my honours research group, 'The Performance Lab' at University of Queensland upon the completion of my honours.
+Originally posted as a reflective on [the website for my honours research group](https://www.wilsonperformancelab.com/www.wilsonperformancelab.com/2022/11/15/koalas-are-not-cute-and-cuddly), 'The Performance Lab' at University of Queensland, upon the completion of my honours in 2022. While I have subsequently gone on to work on the more theoretical side of biologging, this koala project is very close to my heart and I am still in collaboration with the PhD student who took over the project after I graduated. Watch this space for our paper on koala ground behaviour! 
+<hr>
 
 Koalas are not cute and cuddly. Although they might look like it from a distance, up close and personal with a koala, they alternate between rumbling like a behemoth and high-pitched screaming like a flock of birds. Their claws, built to pierce tree trunks, easily slice through thick canvas, through Ben’s pants, through Ben’s boots, through Ben’s flesh - Ben, 8m up a tree, dangling by a rope, trying not to drop the koala, yelps. And that’s if you can even find the koalas at all. They’re really, really, really hard to find.
 
@@ -11,3 +16,7 @@ While simple enough on paper, this honours took me on a ride into the world of b
 
 Overall, there were the usual challenges and tribulations as with any project, but I was blessed with a project that I was excited by enough to spend countless hours researching obscure analysis methods for. Most of all I am exceptionally lucky to have been a part of the Wilson lab culture, and to have had so many people help me with fieldwork and analysis, yes, but having a good laugh and making the long office hours go fast.
 
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/images/Koala_research_team_2022.png" alt="Terrence (the koala), Bill, Ben, Me, Ami, and Sean" style="width: 300px;"/>
+  <p><em>Koala catch team during my honours year featuring Terrence (the koala), Bill, Ben, me, Ami, and Sean</em></p>
+</div>
