@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Contact
+permalink: /contact/
 ---
 
 Get in touch!
@@ -10,6 +11,7 @@ Get in touch!
 <a href="https://x.com/Oakleigh_Wilson" target="_blank" class="contact-button">
     <i class="fa-brands fa-x-twitter"></i> X (Twitter)
 </a>
+
 
 <a href="mailto:oakleigh.wilson05@gmail.com" class="contact-button email">
     <i class="fa-solid fa-envelope"></i> Email Me
