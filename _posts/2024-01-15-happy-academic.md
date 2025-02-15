@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Be a Happy Academic, A. Clark & B. Sousa"
+title: "How To Be a Happy Academic, Alexander Clark & Bailey Sousa"
 date: 2025-01-15
 categories: [PhD, Book Review]
 ---
