@@ -4,8 +4,6 @@ title: "How To Be a Happy Academic, A. Clark & B. Sousa"
 date: 2025-01-15
 categories: [PhD, Book Review]
 ---
-# How To Be a Happy Academic, Alexander Clark & Bailey Sousa
-
 * Read dates: November 2 - December 8, 2024
 * Rating: DNF
 * Recommend for: An audience more advanced in their careers
