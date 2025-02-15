@@ -15,6 +15,7 @@ categories: [PhD, Book Review]
 Somewhere between a social science journal article and a quasi-self-help book, “Happy Academic” was wordy and indirect. Written in the stereotypically academic style, academics are referred to as “academic knowledge workers”, basic concepts stated and restated, and simple messages clogged with filler. The repetition in this book gave the impression that the two authors contributed their independent pieces without strong integration after the fact. Such repetition occurred frequently, both on the sentence level — e.g.,
 
 > One cannot become successful in academic work just because one believes that one is successful. (53)
+
 > [N]or can they be deemed to be successful simply because they see themselves as being 'successful'. (54)
 
 — as well as structurally and ideologically — e.g., within the section on managing emails subheadings “Schedule time to do emails” and “Do emails at set times”, containing practically the same information, appear less than half a page apart (180).
@@ -48,6 +49,7 @@ So how do we escape from this vicious cycle between burnout and searching for va
 > Values frame everything: not only whether we are successful, but what we believe success even is. (35)
 
 Rather than trying to artificially sterilize the workplace of the self, Clark and Sousa lean into the deeply personal elements of academia (arguments that are very comeplling and helped me realise the sheer scope of 'academia') and construct an entire framework around a core of personal values, showing how these flow on to inform our conceptions of success, our priorities and goals, all the way down to our daily tasks (27). You figure out your values, you use these to define success, from these you break it down to success indicators (and milestones), then use these to drive the work you do and how you do it; eschewing cookie-cutter metrics and personalising this entirely to yourself. While recognising that this personal insertion ‘may appear 'privileged'’ to some (70), they stress that in an otherwise metricless profession, the only way to make gravity is to define your own core.
+
 
 And that was about as far as I got with it… Problem: Knowledge work → Unmeasurable → Self-defined success → Unsure where you stand → Imposter Syndrome → Try harder → Burn out → Lack of validation → Sadness. Solution: Values → Goals → Milestones → Action → Happiness.
 
