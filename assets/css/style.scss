@@ -1,4 +1,66 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"; // Keep theme styles
+
+/* Header styles */
+.site-masthead {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.site-masthead h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.site-masthead h2 {
+  margin-top: 0.5rem;
+  font-weight: normal;
+  color: #666;
+}
+
+/* Horizontal tiles layout */
+.tiles {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 20px;
+  flex-wrap: wrap; /* Wrap on small screens */
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Individual tile styling */
+.tile {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  width: 300px;
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+
+.tile:hover {
+  transform: translateY(-5px);
+}
+
+.tile h3 {
+  margin-top: 0;
+  font-size: 1.4em;
+}
+
+.tile p {
+  color: #555;
+}
+
+.tile a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007acc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
