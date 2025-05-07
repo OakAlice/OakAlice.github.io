@@ -27,30 +27,20 @@
   gap: 20px;
   padding: 40px 20px;
 }
-
 .tile {
-  flex: 0 0 30%; /* Each tile takes 30% of the row */
+  flex: 0 0 20%; /* Each tile takes 20% of the row */
   background: #f9f9f9;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   text-align: center;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease;
 }
-
-.tile:hover {
-  transform: translateY(-5px);
-}
-
 .tile h3 {
   margin-top: 0;
   font-size: 1.4em;
 }
-
 .tile p {
   color: #555;
 }
-
 .tile a {
   display: inline-block;
   margin-top: 10px;
