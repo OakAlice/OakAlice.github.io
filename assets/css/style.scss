@@ -2,3 +2,49 @@
 ---
 
 @import "{{ site.theme }}";
+
+.home-layout {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+
+.site-sidebar {
+  width: 30%;
+  padding-right: 30px;
+}
+
+.site-sidebar h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.site-sidebar h2 {
+  font-weight: normal;
+  color: #555;
+}
+
+.site-menu ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.site-menu li {
+  margin: 8px 0;
+}
+
+.site-menu a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.site-content {
+  width: 70%;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
