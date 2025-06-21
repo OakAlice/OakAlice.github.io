@@ -3,7 +3,7 @@ layout: post
 title: "Slow Productivity, Cal Newport"
 date: 2025-06-21
 categories: [Philosophy, Career]
-—
+---
 
 * Read dates: 15 June - 6 July, 2024 (audiobook), 18 - 21 July, 2025 (ebook)
 * Rating: 3/5
