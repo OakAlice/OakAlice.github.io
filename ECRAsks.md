@@ -7,4 +7,4 @@ As part of my role on the media committee for the [Society for Open, Reliable, a
 
 * [Professor Tim Parker](https://www.sortee.org/blog/2025/05/13/2025_ecr_asks_tim_parker/): Introductory post and general discussion
 * [Dr Malgorzata (Losia) Lagisz](https://www.sortee.org/blog/2025/06/10/2025_ecr_asks_losia_lagisz/): AI tools in systematic evidence synthesis
-* Dr Brooke Long-Fox (forthcoming): DEI in open science
+* [Dr Brooke Long-Fox](https://sortee.org/blog/2025/07/28/2025_ecr_asks_brooke_long-fox/): DEI in open science
