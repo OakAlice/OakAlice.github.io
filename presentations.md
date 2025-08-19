@@ -6,9 +6,8 @@ title: Presentations
 I love science communication and especially spoken presentations. Here I have linked to a small collection of some of the presentations and posters I've had the opportunity to present.
 
 ## Presentations
-#### Behaviour is a Sequence, Not a Snapshot
 <p style="text-align: center;">
-  August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.
+  Behaviour is a Sequence, Not a Snapshot: August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.
 </p>
 <div style="text-align: center;">
   <iframe 
@@ -19,9 +18,8 @@ I love science communication and especially spoken presentations. Here I have li
   </iframe>
 </div>
 
-#### PhD Confirmation Seminar
 <p style="text-align: center;">
-  August 8th 2024, Confirmation Seminar, University of the Sunshine Coast.
+  Standarding Machine Learning in Accelerometer-Based Animal Behaviour Classification: August 8th 2024, Thesis Confirmation Seminar, University of the Sunshine Coast.
 </p>
 <div style="text-align: center;">
   <iframe 
