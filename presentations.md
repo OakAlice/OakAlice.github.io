@@ -3,17 +3,17 @@ layout: post
 title: Presentations
 ---
 
-A small collection of some of the presentations and posters I've done.
+I love science communication and especially spoken presentations. Here I have linked to a small collection of some of the presentations and posters I've had the opportunity to present.
 
 ## Presentations
-### Behaviour is a Sequence, Not a Snapshot
-August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.
+#### Behaviour is a Sequence, Not a Snapshot
+<p style="text-align: center;">August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.</p>
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJoAGsBhdO8?si=TdIJK8ke6LXgjuPa" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### PhD Confirmation Seminar
-August 8th 2024, Confirmation Seminar, University of the Sunshine Coast.
+#### PhD Confirmation Seminar
+<p style="text-align: center;">August 8th 2024, Confirmation Seminar, University of the Sunshine Coast.</p>
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DrDJ6vk7Ur0" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -33,4 +33,3 @@ August 8th 2024, Confirmation Seminar, University of the Sunshine Coast.
     <figcaption>Presented at Ecological Society of Australia, 2022</figcaption>
   </figure>
 </div>
-
