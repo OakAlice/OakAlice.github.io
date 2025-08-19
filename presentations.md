@@ -19,8 +19,18 @@ August 8th 2024, Confirmation Seminar, University of the Sunshine Coast.
 </div>
 
 ## Posters
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/images/Validation_Poster_SEB2025.png" alt="Poster on validation protocols (2025)" style="width: 30%;">
-  <img src="assets/images/Preprocessing_Poster_ANZSCPB2024.png" alt="Poster on pre-processing workflows (2024)" style="width: 30%;">
-  <img src="assets/images/Koala_Poster_ESA2022.png" alt="Poster on koala ground behaviour (2022)" style="width: 30%;">
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <figure style="width: 30%;">
+    <img src="assets/images/Validation_Poster_SEB2025.png" alt="Poster on validation protocols (2025)" style="width: 100%;">
+    <figcaption>Presented at Society of Experimental Biology, 2025</figcaption>
+  </figure>
+  <figure style="width: 30%;">
+    <img src="assets/images/Preprocessing_Poster_ANZSCPB2024.png" alt="Poster on pre-processing workflows (2024)" style="width: 100%;">
+    <figcaption>Presented at ANZSCPB, 2024</figcaption>
+  </figure>
+  <figure style="width: 30%;">
+    <img src="assets/images/Koala_Poster_ESA2022.png" alt="Poster on koala ground behaviour (2022)" style="width: 100%;">
+    <figcaption>Presented at Ecological Society of Australia, 2022</figcaption>
+  </figure>
 </div>
+
