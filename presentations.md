@@ -3,12 +3,9 @@ layout: post
 title: Presentations
 ---
 
-I love science communication and especially spoken presentations. Here I have linked to a small collection of some of the presentations and posters I've had the opportunity to present.
+I love science communication and especially spoken presentations. Here I have linked to a small collection of some of the presentations and posters I've had the opportunity to share.
 
 ## Presentations
-<p style="text-align: center;">
-  Behaviour is a Sequence, Not a Snapshot: August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.
-</p>
 <div style="text-align: center;">
   <iframe 
     src="https://www.youtube.com/embed/hJoAGsBhdO8?si=TdIJK8ke6LXgjuPa" 
@@ -17,10 +14,10 @@ I love science communication and especially spoken presentations. Here I have li
     allowfullscreen>
   </iframe>
 </div>
-
 <p style="text-align: center;">
-  Standarding Machine Learning in Accelerometer-Based Animal Behaviour Classification: August 8th 2024, Thesis Confirmation Seminar, University of the Sunshine Coast.
+  **Behaviour is a Sequence, Not a Snapshot**: August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.
 </p>
+
 <div style="text-align: center;">
   <iframe 
     src="https://www.youtube.com/embed/DrDJ6vk7Ur0" 
@@ -29,6 +26,9 @@ I love science communication and especially spoken presentations. Here I have li
     allowfullscreen>
   </iframe>
 </div>
+<p style="text-align: center;">
+  **Standarding Machine Learning in Accelerometer-Based Animal Behaviour Classification**: August 8th 2024, Thesis Confirmation Seminar, University of the Sunshine Coast.
+</p>
 
 ## Posters
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
