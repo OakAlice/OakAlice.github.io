@@ -15,7 +15,7 @@ I love science communication and especially spoken presentations. Here I have li
   </iframe>
 </div>
 <p style="text-align: center;">
-  <b>Behaviour is a Sequence, Not a Snapshot</b>b>: August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.
+  <b>Behaviour is a Sequence, Not a Snapshot</b>: August 15th 2025, Animal Ecology Seminar Series, University of the Sunshine Coast.
 </p>
 
 <div style="text-align: center;">
@@ -27,7 +27,7 @@ I love science communication and especially spoken presentations. Here I have li
   </iframe>
 </div>
 <p style="text-align: center;">
-  <b>Standarding Machine Learning in Accelerometer-Based Animal Behaviour Classification</b>b>: August 8th 2024, Thesis Confirmation Seminar, University of the Sunshine Coast.
+  <b>Standarding Machine Learning in Accelerometer-Based Animal Behaviour Classification</b>: August 8th 2024, Thesis Confirmation Seminar, University of the Sunshine Coast.
 </p>
 
 ## Posters
