@@ -6,7 +6,7 @@ categories: [Career]
 ---
 
 * Read dates: Some time in 2023, again 22 – 24th August 2025
-* Rating: 5/5 
+* Rating: the book - 3/5, the idea - 5/5 
 * Recommend for: Everyone with ambitions of designing the perfect career
 
 > Why do some people end up loving what they do, while so many others fail at this goal? (xvi)
