@@ -9,3 +9,5 @@ As part of my role on the media committee for the [Society for Open, Reliable, a
 * [Dr Malgorzata (Losia) Lagisz](https://www.sortee.org/blog/2025/06/10/2025_ecr_asks_losia_lagisz/): AI tools in systematic evidence synthesis
 * [Dr Brooke Long-Fox](https://sortee.org/blog/2025/07/28/2025_ecr_asks_brooke_long-fox/): DEI in open science
 * [Dr Ed Ivimey-Cook](https://sortee.org/blog/2025/09/26/2025_ecr_asks_ed_ivimey-cook/): Challenges and future in code review
+* Dr Steven Cooke: Navigating authorship norms (link forthcoming)
+* Dr Alex Holcombe: Understanding publishing houses (link forthcoming)
