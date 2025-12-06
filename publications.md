@@ -12,3 +12,5 @@ title: Publications
 
 **In Prep:**
 - Refining Accelerometer-based Animal Behaviour Classification Outputs With Sequence-Informed Post-Processing. **O Wilson**, H Yu, D Schoeman, C Clemente.
+- Vectorial Dynamic Body Acceleration Energy-use Estimates Does Not Scale With Body Mass in Animal-Borne Accelerometer Field Data. **O Wilson**, P van Bijlert, J Annett, C Clemente.
+
