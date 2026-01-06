@@ -5,14 +5,6 @@ title: Presentations and Posters
 
 I love science communication and especially spoken presentations. Here I have linked to a small collection of some of the presentations and posters I've had the opportunity to share.
 
-## Presentations Given
-- Australian and New Zealand Society for Comparative Physiology and Biochemistry, Sunshine Coast (Australia), December 2025: Effect of Body Size on Accelerometer-derived Animal Energy-use Estimates. Oral presentation. Awarded runner up best student talk.
-- Ecological Society of Australia, Adelaide (Australia), December 2025: From Prediction to Interpretation: Post-Processing to Refine Behavioural Classifications from Animal Accelerometry. Oral presentation.
-- 3MT, Sippy Downs (Australia), August 2025: Sport's Watches for Animals. Oral Presentation. Awarded winner 3MT for science department, 3rd place and people's choice for overall university.
-- Society of Experimental Biology, Antwerp (Belgium), July 2025: Practical guidelines for validation of supervised machine learning models in accelerometer-based animal behaviour classification. Poster.
-- Australiasian Society for the Study of Animal Behaviour, Armidale (Australia), June 2025: Ignoring what we don't know in animal behaviour classification. Oral presentation. Awarded best student talk.
-- Australian and New Zealand Society for Comparative Physiology and Biochemistry, Gatton (Australia), December 2023: A Biologist's Guide To Machine Leanrning - Accelerometer Animal Activity Recognition Explained. Poster. Awarded people's choice best poster.
-
 ## Sample Presentations
 <div style="text-align: center;">
   <iframe 
