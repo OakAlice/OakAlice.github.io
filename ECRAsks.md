@@ -10,6 +10,6 @@ As part of my role on the media committee for the [Society for Open, Reliable, a
 * [Dr Brooke Long-Fox](https://sortee.org/blog/2025/07/28/2025_ecr_asks_brooke_long-fox/): DEI in open science
 * [Dr Ed Ivimey-Cook](https://sortee.org/blog/2025/09/26/2025_ecr_asks_ed_ivimey-cook/): Challenges and future in code review
 * [Professor Steven Cooke](https://sortee.org/blog/2025/10/29/2025_ecr_asks_steven_cooke/): Navigating authorship norms
-* Professor Alex Holcombe: Understanding publishing houses (link forthcoming)
-* Dr Cecilia Baldoni: Community Engagement and Opening Open Science (link forthcoming in march)
-* Dr Timothy Clark: Data fabrication (link forthcoming in april)
+* [Professor Alex Holcombe](https://sortee.org/blog/2026/03/03/2026_ecr_asks_alex_holscombe/): Understanding publishing houses
+* [Dr Cecilia Baldoni](https://sortee.org/blog/2026/04/06/2026_ecr_asks_cecilia_baldoni/): Community Engagement and Opening Open Science
+* Dr Timothy Clark: Data fabrication (link forthcoming in may)
