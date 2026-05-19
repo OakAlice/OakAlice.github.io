@@ -3,16 +3,18 @@ layout: post
 title: About Me
 ---
 
-Quantitative ecologist currently undertaking PhD optimising the use of machine learning for animal accelerometer behaviour recognition. I like problem solving with big data.
+Quantitative ecologist currently undertaking PhD optimising the use of machine learning for animal accelerometer behaviour recognition in small datasets. I like problem solving with data and making complex things simple.
 
-* Skilled in: R, Machine learning, Biologging, High Performance Computing
+* Skilled in: R, Machine learning, Biologging, Science communication
 * Currently learning: Python, MatLab App Builder
 * Interested in: Animal behaviour, Evolution of collective (and anti-social) behaviour
 * Chat with me about: Hiking, Sustainable fashion, Deep work
+* Get in touch: *oakleigh.wilson[at]gmail.com*
 
-![me_hiking](https://github.com/user-attachments/assets/cf865448-4eab-44f9-ad49-9b68dc50caf3)
-*Approaching the summit of Kitadake, Japan, shortly after dawn. (2024)*
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <figure>
+    <img src="assets/images/me_with_joey.PNG">
+    <figcaption>Me, with a soon-to-be-collared joey at Roma, outback QLD</figcaption>
+  </figure>
+</div>
 
-Get in touch!
-
-*oakleigh.wilson[at]gmail.com*

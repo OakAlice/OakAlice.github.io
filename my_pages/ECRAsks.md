@@ -3,9 +3,13 @@ layout: post
 title: ECR Asks
 ---
 
-As part of my role on the media committee for the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org/) I began a science communication interview series. This series, ‘ECR Asks’ is a monthly Q&A sessions where I speak with experienced SORTEE members to explore their journey in, and perspectives on, open science and transparent research. This series aims to answer big questions and share practical insights to support early career researchers like myself to navigate the ever evolving landscape of open science and academia. These have been massively informative and fun conversations, and I'm so grateful to the researchers I've spoken with for generously sharing their time and insights. Below I have linked to the SORTEE website where these interviews have been published and linked to the social media posts I created.
+As part of my role on the media committee for the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org/) I began a science communication interview series. 
 
-* [Professor Tim Parker](https://www.sortee.org/blog/2025/05/13/2025_ecr_asks_tim_parker/): Introductory post and general discussion
+This series, ‘ECR Asks’ is a monthly Q&A sessions where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. These have been fun and always very interesting conversations, and I'm so grateful to the researchers I've spoken with for generously sharing their time and insights. 
+
+Below I have linked to the SORTEE website where these interviews have been published as well as linking to the social media posts I designed.
+
+* [Professor Tim Parker](https://www.sortee.org/blog/2025/05/13/2025_ecr_asks_tim_parker/): Risks in Open Science
 * [Dr Malgorzata (Losia) Lagisz](https://www.sortee.org/blog/2025/06/10/2025_ecr_asks_losia_lagisz/): AI tools in systematic evidence synthesis
 * [Dr Brooke Long-Fox](https://sortee.org/blog/2025/07/28/2025_ecr_asks_brooke_long-fox/): DEI in open science
 * [Dr Ed Ivimey-Cook](https://sortee.org/blog/2025/09/26/2025_ecr_asks_ed_ivimey-cook/): Challenges and future in code review
@@ -17,19 +21,19 @@ As part of my role on the media committee for the [Society for Open, Reliable, a
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DVp_DqQkVCs/?hl=en&img_index=1" target="_blank">
-      <img src="assets/images/ECRAsksBanners/AlexHolcombe.png" alt="Alex Holcombe" style="width: 100%;">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/AlexHolcombe.png" alt="Alex Holcombe" style="width: 100%;">
     </a>
     <figcaption>Interview with Professor Alex Holcombe</figcaption>
   </figure>
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DX8qeTEkYsY/?hl=en&img_index=1" target="_blank">
-      <img src="assets/images/ECRAsksBanners/LosiaLagisz.png" alt="Losia Lagisz" style="width: 100%;">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/LosiaLagisz.png" alt="Losia Lagisz" style="width: 100%;">
     </a>
     <figcaption>Interview with Dr Losia Lagisz</figcaption>
   </figure>
   <figure style="width: 30%;">
     <a href="YOUR_LINK_HERE" target="_blank">
-      <img src="assets/images/ECRAsksBanners/TimothyClark.png" alt="Timothy Clark" style="width: 100%;">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/TimothyClark.png" alt="Timothy Clark" style="width: 100%;">
     </a>
     <figcaption>Interview with Professor Timothy Clark</figcaption>
   </figure>
@@ -38,13 +42,13 @@ As part of my role on the media committee for the [Society for Open, Reliable, a
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DXKJ8uoEnYT/?hl=en&img_index=1" target="_blank">
-      <img src="assets/images/ECRAsksBanners/CaciliaBaldoni.png" alt="Cacilia Baldoni" style="width: 100%;">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/CaciliaBaldoni.png" alt="Cacilia Baldoni" style="width: 100%;">
     </a>
     <figcaption>Interview with Dr Cecilia Baldoni</figcaption>
   </figure>
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DWWOKIcEmfR/?hl=en&img_index=1" target="_blank">
-      <img src="assets/images/ECRAsksBanners/TimParker.png" alt="Tim Parker" style="width: 100%;">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/TimParker.png" alt="Tim Parker" style="width: 100%;">
     </a>
     <figcaption>Interview with Professor Tim Parker</figcaption>
   </figure>
