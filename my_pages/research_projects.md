@@ -11,7 +11,7 @@ I’ve told my mum to tell her friends I build sports watches for wild animals. 
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure>
-    <img src="assets/images/ImpalaProjectCollarSummaryImage.png">
+    <img src="https://oakalice.github.io/assets/images/ImpalaProjectCollarSummaryImage.png">
     <figcaption>Overview of how I intend to use the biologging collar data to understand wild animal ecology.</figcaption>
   </figure>
 </div>
