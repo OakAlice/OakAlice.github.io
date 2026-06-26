@@ -22,22 +22,22 @@ Below I have linked to the SORTEE website where these interviews have been publi
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
-    <a href="https://www.instagram.com/p/DVp_DqQkVCs/?hl=en&img_index=1" target="_blank">
-      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/AlexHolcombe.png" alt="Alex Holcombe" style="width: 100%;">
+    <a href="https://www.instagram.com/p/DZ-iQjZkuR-/?hl=en&img_index=1" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/AngelaMoles.png" alt="Angela Moles" style="width: 100%;">
     </a>
-    <figcaption>Interview with Professor Alex Holcombe</figcaption>
-  </figure>
-  <figure style="width: 30%;">
-    <a href="https://www.instagram.com/p/DX8qeTEkYsY/?hl=en&img_index=1" target="_blank">
-      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/LosiaLagisz.png" alt="Losia Lagisz" style="width: 100%;">
-    </a>
-    <figcaption>Interview with Dr Losia Lagisz</figcaption>
+    <figcaption>Interview with Professor Angela Moles</figcaption>
   </figure>
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DYj8XAUkrHA/?hl=en&img_index=1" target="_blank">
       <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/TimothyClark.png" alt="Timothy Clark" style="width: 100%;">
     </a>
     <figcaption>Interview with Professor Timothy Clark</figcaption>
+  </figure>
+  <figure style="width: 30%;">
+    <a href="https://www.instagram.com/p/DVp_DqQkVCs/?hl=en&img_index=1" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/AlexHolcombe.png" alt="Alex Holcombe" style="width: 100%;">
+    </a>
+    <figcaption>Interview with Professor Alex Holcombe</figcaption>
   </figure>
 </div>
 
@@ -47,6 +47,12 @@ Below I have linked to the SORTEE website where these interviews have been publi
       <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/CeciliaBaldoni.png" alt="Cacilia Baldoni" style="width: 100%;">
     </a>
     <figcaption>Interview with Dr Cecilia Baldoni</figcaption>
+  </figure>
+  <figure style="width: 30%;">
+    <a href="https://www.instagram.com/p/DX8qeTEkYsY/?hl=en&img_index=1" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/LosiaLagisz.png" alt="Losia Lagisz" style="width: 100%;">
+    </a>
+    <figcaption>Interview with Dr Losia Lagisz</figcaption>
   </figure>
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DWWOKIcEmfR/?hl=en&img_index=1" target="_blank">
