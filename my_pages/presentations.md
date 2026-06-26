@@ -8,6 +8,18 @@ I love science communication and especially spoken presentations. Here I have li
 ## Sample Presentations
 <div style="text-align: center;">
   <iframe 
+    src="https://www.youtube.com/embed/N936lzLwwGY?si=kpQq30P98A8W4NEe" 
+    style="width: 70%; height: 400px;" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
+<p style="text-align: center;">
+  <b>Tracking how wild animals move: Behaviour-integrated dead-reckoning</b>: June 23rd 2026, Australasian Society for the Study of Animal Behaviour Conference, Flinders University.
+</p>
+
+<div style="text-align: center;">
+  <iframe 
     src="https://www.youtube.com/embed/hJoAGsBhdO8?si=TdIJK8ke6LXgjuPa" 
     style="width: 70%; height: 400px;" 
     frameborder="0" 
