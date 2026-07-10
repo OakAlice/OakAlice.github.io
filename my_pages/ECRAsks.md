@@ -5,9 +5,9 @@ title: ECR Asks
 
 As part of my role on the media committee for the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org/) I began a science communication interview series. 
 
-This series, ‘ECR Asks’ is a monthly Q&A sessions where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. These have been fun and always very interesting conversations, and I'm so grateful to the researchers I've spoken with for generously sharing their time and insights. 
+This series, ‘ECR Asks’ is a monthly Q&A sessions where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. I am so grateful to the researchers I've spoken with for generously sharing their time and insights, and to SORTEE for giving me the opportunity to learn and grow as a science communicator. This project has been my favourite part of research so far.
 
-Below I have linked to the SORTEE website where these interviews have been published as well as linking to the social media posts I designed.
+Below I have linked to the SORTEE website where these interviews have been published as well as linking to some of the social media posts I designed.
 
 * [Professor Tim Parker](https://www.sortee.org/blog/2025/05/13/2025_ecr_asks_tim_parker/): Risks in Open Science
 * [Dr Malgorzata (Losia) Lagisz](https://www.sortee.org/blog/2025/06/10/2025_ecr_asks_losia_lagisz/): AI tools in systematic evidence synthesis
@@ -19,6 +19,7 @@ Below I have linked to the SORTEE website where these interviews have been publi
 * [Professor Timothy Clark](https://sortee.org/blog/2026/05/19/2026_ecr_asks_timothy_clark/): Data fabrication and scientific misconduct
 * [Professor Angela Moles](https://sortee.org/blog/2026/06/23/2026_ecr_asks_angela_moles/): Peer review by reciprocity
 * Dr Joel Pick: ECRs and the Replication Crisis (link forthcoming in July)
+* Dr Marija Purgar and Dr Antica Čulina: Research Waste (link forthcoming in August)
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
@@ -27,6 +28,15 @@ Below I have linked to the SORTEE website where these interviews have been publi
     </a>
     <figcaption>Interview with Professor Angela Moles</figcaption>
   </figure>
+  <figure style="width: 30%;">
+    <a href="xx" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/JoelPick.png" alt="Joel Pick" style="width: 100%;">
+    </a>
+    <figcaption>Interview with Dr Joel Pick</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DYj8XAUkrHA/?hl=en&img_index=1" target="_blank">
       <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/TimothyClark.png" alt="Timothy Clark" style="width: 100%;">
@@ -39,14 +49,20 @@ Below I have linked to the SORTEE website where these interviews have been publi
     </a>
     <figcaption>Interview with Professor Alex Holcombe</figcaption>
   </figure>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DXKJ8uoEnYT/?hl=en&img_index=1" target="_blank">
       <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/CeciliaBaldoni.png" alt="Cacilia Baldoni" style="width: 100%;">
     </a>
     <figcaption>Interview with Dr Cecilia Baldoni</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <figure style="width: 30%;">
+    <a href="https://www.instagram.com/p/DacP3HakaKd/?hl=en&img_index=1" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/EdIvimeyCook.png" alt="Ed Ivimey-Cook" style="width: 100%;">
+    </a>
+    <figcaption>Interview with Dr Ed Ivimey-Cook</figcaption>
   </figure>
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DX8qeTEkYsY/?hl=en&img_index=1" target="_blank">
