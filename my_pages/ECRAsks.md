@@ -18,8 +18,8 @@ Below I have linked to the SORTEE website where these interviews have been publi
 * [Dr Cecilia Baldoni](https://sortee.org/blog/2026/04/06/2026_ecr_asks_cecilia_baldoni/): Community Engagement and Opening Open Science
 * [Professor Timothy Clark](https://sortee.org/blog/2026/05/19/2026_ecr_asks_timothy_clark/): Data fabrication and scientific misconduct
 * [Professor Angela Moles](https://sortee.org/blog/2026/06/23/2026_ecr_asks_angela_moles/): Peer review by reciprocity
-* Dr Joel Pick: ECRs and the Replication Crisis (link forthcoming in July)
-* Dr Marija Purgar and Dr Antica Čulina: Research Waste (link forthcoming in August)
+* [Dr Joel Pick](https://sortee.org/blog/2026/07/13/2026_ecr_asks_joel_pick/): ECRs and the Replication Crisis
+* [Dr Antica Čulina](https://sortee.org/blog/2026/09/11/2026_ecr_asks_antica_culina/): Research waste
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
