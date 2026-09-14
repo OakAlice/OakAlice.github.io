@@ -23,7 +23,16 @@ Below I have linked to the SORTEE website where these interviews have been publi
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
-    <a href="xx" target="_blank">
+    <a href="https://www.instagram.com/p/DdQhbNZjLjF/?hl=en&img_index=1" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/AnticaCulina.jpg" alt="Antica Culina" style="width: 100%;">
+    </a>
+    <figcaption>Interview with Dr Antica Culina</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <figure style="width: 30%;">
+    <a href="https://www.instagram.com/p/DbDdeTQEv4g/?hl=en&img_index=1" target="_blank">
       <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/JoelPick.jpg" alt="Joel Pick" style="width: 100%;">
     </a>
     <figcaption>Interview with Dr Joel Pick</figcaption>
