@@ -2,12 +2,10 @@
 layout: post
 title: ECR Asks
 ---
-
 As part of my role on the media committee for the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org/) I began a science communication interview series. 
 
-This series, ‘ECR Asks’ is a monthly Q&A sessions where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. I am so grateful to the researchers I've spoken with for generously sharing their time and insights, and to SORTEE for giving me the opportunity to learn and grow as a science communicator. This project has been my favourite part of research so far.
-
-Below I have linked to the SORTEE website where these interviews have been published as well as linking to some of the social media posts I designed.
+## ECR Asks
+‘ECR Asks’ is a monthly Q&A sessions where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. I am so grateful to the researchers I've spoken with for generously sharing their time and insights. Below I have linked to the SORTEE website where these interviews have been published as well as linking to the social media posts I designed.
 
 * [Professor Tim Parker](https://www.sortee.org/blog/2025/05/13/2025_ecr_asks_tim_parker/): Risks in Open Science
 * [Dr Malgorzata (Losia) Lagisz](https://www.sortee.org/blog/2025/06/10/2025_ecr_asks_losia_lagisz/): AI tools in systematic evidence synthesis
@@ -15,11 +13,13 @@ Below I have linked to the SORTEE website where these interviews have been publi
 * [Dr Ed Ivimey-Cook](https://sortee.org/blog/2025/09/26/2025_ecr_asks_ed_ivimey-cook/): Challenges and future in code review
 * [Professor Steven Cooke](https://sortee.org/blog/2025/10/29/2025_ecr_asks_steven_cooke/): Navigating authorship norms
 * [Professor Alex Holcombe](https://sortee.org/blog/2026/03/03/2026_ecr_asks_alex_holscombe/): Understanding publishing houses
-* [Dr Cecilia Baldoni](https://sortee.org/blog/2026/04/06/2026_ecr_asks_cecilia_baldoni/): Community Engagement and Opening Open Science
+* [Dr Cecilia Baldoni](https://sortee.org/blog/2026/04/06/2026_ecr_asks_cecilia_baldoni/): Community engagement and opening open science
 * [Professor Timothy Clark](https://sortee.org/blog/2026/05/19/2026_ecr_asks_timothy_clark/): Data fabrication and scientific misconduct
 * [Professor Angela Moles](https://sortee.org/blog/2026/06/23/2026_ecr_asks_angela_moles/): Peer review by reciprocity
-* [Dr Joel Pick](https://sortee.org/blog/2026/07/13/2026_ecr_asks_joel_pick/): ECRs and the Replication Crisis
+* [Dr Joel Pick](https://sortee.org/blog/2026/07/13/2026_ecr_asks_joel_pick/): ECRs and the replication crisis
 * [Dr Antica Čulina](https://sortee.org/blog/2026/09/11/2026_ecr_asks_antica_culina/): Research waste
+* [Dr Dan Gorelick]: Paying peer reviewers (link forthcoming)
+* [Dr Auriel Fournier]: A culture of unpaid volunteering (link forthcoming)
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure style="width: 30%;">
@@ -92,3 +92,9 @@ Below I have linked to the SORTEE website where these interviews have been publi
     <figcaption>Interview with Professor Tim Parker</figcaption>
   </figure>
 </div>
+
+
+## ECR Experience 
+In a spin-off mini-series, I spoke to early career SORTEE members about their journey in and experience with academia. Parts of each of these interviews went towards SORTEE blog posts. Extended versions of these interviews, focusing on unemployment in academia, can be found on my personal blog.
+
+* More information coming soon!
