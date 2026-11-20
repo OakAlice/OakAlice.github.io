@@ -106,8 +106,3 @@ As part of my role on the media committee for the [Society for Open, Reliable, a
   </figure>
 </div>
 
-
-## ECR Experience 
-In a spin-off mini-series, I spoke to early career SORTEE members about their journey in and experience with academia. Parts of each of these interviews went towards SORTEE blog posts. Extended versions of these interviews, focusing on unemployment in academia, can be found on my personal blog.
-
-* More information coming soon!
