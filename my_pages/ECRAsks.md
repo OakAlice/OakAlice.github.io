@@ -18,10 +18,23 @@ As part of my role on the media committee for the [Society for Open, Reliable, a
 * [Professor Angela Moles](https://sortee.org/blog/2026/06/23/2026_ecr_asks_angela_moles/): Peer review by reciprocity
 * [Dr Joel Pick](https://sortee.org/blog/2026/07/13/2026_ecr_asks_joel_pick/): ECRs and the replication crisis
 * [Dr Antica Čulina](https://sortee.org/blog/2026/09/11/2026_ecr_asks_antica_culina/): Research waste
-* [Dr Dan Gorelick]: Paying peer reviewers (link forthcoming)
+* [A.Professor Daniel Gorelick](https://sortee.org/blog/2026/10/29/2026_ecr_asks_daniel_gorelick/): Paying peer reviewers
 * [Dr Auriel Fournier]: A culture of unpaid volunteering (link forthcoming)
 
+
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <figure style="width: 30%;">
+    <a href="https://www.instagram.com/p/DfG1S_kjLIY/?hl=en&img_index=1" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/AurielFournier.png" alt="Auriel Fournier" style="width: 100%;">
+    </a>
+    <figcaption>Interview with Dr Auriel Fournier</figcaption>
+  </figure>
+  <figure style="width: 30%;">
+    <a href="https://www.instagram.com/p/DfG1S_kjLIY/?hl=en&img_index=1" target="_blank">
+      <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/DanielGorelick.png" alt="Daniel Gorelick" style="width: 100%;">
+    </a>
+    <figcaption>Interview with Associate Professor Daniel Gorelick</figcaption>
+  </figure>
   <figure style="width: 30%;">
     <a href="https://www.instagram.com/p/DdQhbNZjLjF/?hl=en&img_index=1" target="_blank">
       <img src="https://oakalice.github.io/assets/images/ECRAsksBanners/AnticaCulina.png" alt="Antica Culina" style="width: 100%;">
