@@ -8,6 +8,18 @@ I love science communication and especially spoken presentations. Here I have li
 ## Sample Presentations
 <div style="text-align: center;">
   <iframe 
+    src="https://www.youtube.com/embed/AqJx3ZIPAJI?si=fO74chF7y2kH19go"  
+    style="width: 70%; height: 400px;" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
+<p style="text-align: center;">
+  <b> Making the best of a very bad field season: Unsupervised clustering for data-deficient accelerometer-based animal behaviour data</b>: September 22nd 2026. Animal Ecology Seminar Series, University of the Sunshine Coast.
+</p>
+
+<div style="text-align: center;">
+  <iframe 
     src="https://www.youtube.com/embed/N936lzLwwGY?si=kpQq30P98A8W4NEe" 
     style="width: 70%; height: 400px;" 
     frameborder="0" 
@@ -44,15 +56,24 @@ I love science communication and especially spoken presentations. Here I have li
 
 ## Sample Posters
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
-  <figure style="width: 30%;">
+  <figure style="width: 50%;">
+    <img src="https://oakalice.github.io/assets/images/Posters/ECBB_Poster.png" alt="Poster on dead reckoning (2026)" style="width: 100%;">
+    <figcaption>Presented at European Conference for Behavioural Biology, 2026</figcaption>
+  </figure>
+  
+  <figure style="width: 50%;">
     <img src="https://oakalice.github.io/assets/images/Posters/Validation_Poster_SEB2025.png" alt="Poster on validation protocols (2025)" style="width: 100%;">
     <figcaption>Presented at Society of Experimental Biology, 2025</figcaption>
   </figure>
-  <figure style="width: 30%;">
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <figure style="width: 50%;">
     <img src="https://oakalice.github.io/assets/images/Posters/Preprocessing_Poster_ANZSCPB2024.png" alt="Poster on pre-processing workflows (2024)" style="width: 100%;">
     <figcaption>Presented at ANZSCPB, 2024</figcaption>
   </figure>
-  <figure style="width: 30%;">
+    
+  <figure style="width: 50%;">
     <img src="https://oakalice.github.io/assets/images/Posters/Koala_Poster_ESA2022.png" alt="Poster on koala ground behaviour (2022)" style="width: 100%;">
     <figcaption>Presented at Ecological Society of Australia, 2022</figcaption>
   </figure>

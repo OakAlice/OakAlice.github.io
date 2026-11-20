@@ -4,7 +4,7 @@ title: Publications
 ---
 
 **2026:**
-- Refining Accelerometer-based Animal Behaviour Classification Outputs With Sequence-Informed Post-Processing. **O Wilson**, H Yu, D Schoeman, C Clemente. (2026) Ecology & Evolution. [link forthcoming]
+- Refining Accelerometer-based Animal Behaviour Classification Outputs With Sequence-Informed Post-Processing. **O Wilson**, H Yu, D Schoeman, C Clemente. (2026) Ecology & Evolution. [https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.74053](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.74053)
 - Conservation gains at minor movement costs: Evaluating a cat-borne predation deterrent.  **O Wilson**, N Galea, D Schoeman, J Annett, C Clemente. (2026) Applied Animal Behaviour Science. [https://www.sciencedirect.com/science/article/pii/S0168159126001887?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0168159126001887?via%3Dihub)
 
 **2025:**

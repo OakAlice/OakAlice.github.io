@@ -9,7 +9,7 @@ Quantitative ecologist currently undertaking PhD optimising the use of machine l
 * Currently learning: Python, MatLab App Builder
 * Interested in: Animal behaviour, Evolution of collective (and anti-social) behaviour
 * Chat with me about: Hiking, Sustainable fashion, Deep work
-* Get in touch: *oakleigh.wilson[at]gmail.com*
+* Get in touch: *oakleigh.wilson05[at]gmail.com*
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <figure>
