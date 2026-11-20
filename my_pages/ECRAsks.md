@@ -4,7 +4,10 @@ title: ECR Asks
 ---
 ‘ECR Asks’ is a series of Q&A interviews where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. With the goal of supporting early career researchers like myself, this series aims to answer big questions and share practical insights on navigating the ever evolving landscape of open science and academia.
 
-Below are links to all of my written interviews as well as the social media posts I designed to promote each.
+Below are links to all of my written interviews as well as the social media posts I designed to promote each. 
+
+This project is undertaken in my capacity as science communicator for the Society for Open, Reliable, and Transparent Ecology and Evolution ([SORTEE](https://sortee.org/blog/)) and is officially published on the organisation website and social media channels. Thank you to SORTEE and all interviewees for their generous support and time in my attempts to make sense of science.
+
 
 * [Professor Tim Parker](https://www.sortee.org/blog/2025/05/13/2025_ecr_asks_tim_parker/): Risks in Open Science
 * [Dr Malgorzata (Losia) Lagisz](https://www.sortee.org/blog/2025/06/10/2025_ecr_asks_losia_lagisz/): AI tools in systematic evidence synthesis
